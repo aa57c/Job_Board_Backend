@@ -39,7 +39,7 @@ npm install
 ```
 
 Set environment variables
-Create a .env file with your MongoDB URI.
+- Create a .env file with your MongoDB URI.
 
 Run the server
 ```bash
